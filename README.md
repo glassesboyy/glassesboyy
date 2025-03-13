@@ -144,25 +144,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=glassesboyy&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=highcontrast&hide_border=false&order=2" height="198" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=glassesboyy&radius=16&theme=high-contrast&area=true&order=5&hide_border=false&hide_title=true" height="270" alt="activity-graph graph"  />
 </div>
-
-###
-###
-###
-
-<h2 align="center">Snake Game 🐍</h2>
-
-###
-
-<img src="https://raw.githubusercontent.com/glassesboyy/glassesboyy/output/snake.svg" alt="Snake animation" />
-
-###
-###
-###
-
-<h2 align="center">Pacman Game 👾</h2>
-
-###
-
-<img src="https://raw.githubusercontent.com/glassesboyy/glassesboyy/output/pacman-contribution-graph.svg" alt="Pacman animation" />
-
-###
