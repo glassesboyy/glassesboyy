@@ -6,7 +6,9 @@
 
 ###
 
-<h2 align="left">🌐 Front-End (Client-Side)</h2>
+---
+
+<h3 align="left">🌐 Front-End (Client-Side)</h3>
 
 ###
 
@@ -30,7 +32,7 @@
 
 ###
 
-<h2 align="right">⚙️ Back-End (Server-Side)</h2>
+<h3 align="right">⚙️ Back-End (Server-Side)</h3>
 
 ###
 
@@ -48,7 +50,7 @@
 
 ###
 
-<h2 align="left">🎨 UI/UX Design</h2>
+<h3 align="left">🎨 UI/UX Design</h3>
 
 ###
 
@@ -64,7 +66,7 @@
 
 ###
 
-<h2 align="right">📱 Mobile Development</h2>
+<h3 align="right">📱 Mobile Development</h3>
 
 ###
 
@@ -76,7 +78,7 @@
 
 ###
 
-<h2 align="left">🛠️ Tools & Other Technologies</h2>
+<h3 align="left">🛠️ Tools & Other Technologies</h3>
 
 ###
 
@@ -100,22 +102,22 @@
 
 ---
 
-<h1 align="center">🌟 Social Media & Contact</h1>
+<h3 align="center">🌟 Social Media & Contact</h3>
 
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/surya-zulfikar-021316287/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
   </a>
   <a href="https://www.instagram.com/suryazulfikarr/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo" />
   </a>
   <a href="https://discordapp.com/users/811565856541638686" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo" />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo" />
   </a>
   <a href="mailto:aliperwira26@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo" />
   </a>
 </div>
 
@@ -123,7 +125,7 @@
 
 ---
 
-<h1 align="center">📈 GitHub Activity Graph</h1>
+<h3 align="center">📈 GitHub Activity Graph</h3>
 
 ###
 
