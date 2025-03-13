@@ -1,16 +1,12 @@
-<h1 align="left">Hello There! It's Teguh Surya Zulfikar!! 👋</h1>
+<h1 align="left">Hi There! It's Surya Zulfikar!! 👋</h1>
 
 ###
 
-<h4 align="left">Welcome to my GitHub profile! I'm a passionate developer currently learning Full Stack Development. My goal is to deepen my understanding of web and mobile development, covering everything from interface design to server management. I enjoy building meaningful and user-friendly applications that solve real-world problems.</h4>
+<h4 align="left">Welcome to my GitHub profile. I am an enthusiastic developer currently focused on learning Full Stack Development. My objective is to enhance my knowledge in both web and mobile development, encompassing all aspects from interface design to server management. I take pleasure in creating impactful and user-centric applications that address real-world challenges. Below are the technologies I utilize in my projects.</h4>
 
 ###
 
-<h2 align="center">🚀 My Tech Stack 💻</h2>
-
-###
-
-<h6 align="center">🌐 Front-End (Client-Side)</h6>
+<h2 align="center">🌐 Front-End (Client-Side)</h2>
 
 ###
 
@@ -34,7 +30,7 @@
 
 ###
 
-<h6 align="center">⚙️ Back-End (Server-Side)</h6>
+<h2 align="center">⚙️ Back-End (Server-Side)</h2>
 
 ###
 
@@ -52,7 +48,7 @@
 
 ###
 
-<h6 align="center">🎨 UI/UX Design</h6>
+<h2 align="center">🎨 UI/UX Design</h2>
 
 ###
 
@@ -68,7 +64,7 @@
 
 ###
 
-<h6 align="center">📱 Mobile Development</h6>
+<h2 align="center">📱 Mobile Development</h2>
 
 ###
 
@@ -80,7 +76,7 @@
 
 ###
 
-<h6 align="center">🛠️ Tools & Other Technologies</h6>
+<h2 align="center">🛠️ Tools & Other Technologies</h2>
 
 ###
 
