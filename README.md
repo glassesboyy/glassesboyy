@@ -6,11 +6,11 @@
 
 ###
 
-<h2 align="center">🌐 Front-End (Client-Side)</h2>
+<h2 align="left">🌐 Front-End (Client-Side)</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="30" alt="react logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" height="30" alt="vuejs logo" />
@@ -30,11 +30,11 @@
 
 ###
 
-<h2 align="center">⚙️ Back-End (Server-Side)</h2>
+<h2 align="right">⚙️ Back-End (Server-Side)</h2>
 
 ###
 
-<div align="center">
+<div align="right">
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="30" alt="laravel logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo" />
@@ -48,11 +48,11 @@
 
 ###
 
-<h2 align="center">🎨 UI/UX Design</h2>
+<h2 align="left">🎨 UI/UX Design</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo" />
@@ -64,11 +64,11 @@
 
 ###
 
-<h2 align="center">📱 Mobile Development</h2>
+<h2 align="right">📱 Mobile Development</h2>
 
 ###
 
-<div align="center">
+<div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo" />
@@ -76,11 +76,11 @@
 
 ###
 
-<h2 align="center">🛠️ Tools & Other Technologies</h2>
+<h2 align="left">🛠️ Tools & Other Technologies</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo" />
