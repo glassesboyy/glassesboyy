@@ -98,7 +98,9 @@
 
 ###
 
-<h2 align="center">🌟 Social Media & Contact</h2>
+---
+
+<h1 align="center">🌟 Social Media & Contact</h1>
 
 ###
 
@@ -119,7 +121,9 @@
 
 ###
 
-<h2 align="center">📈 GitHub Activity Graph</h2>
+---
+
+<h1 align="center">📈 GitHub Activity Graph</h1>
 
 ###
 
