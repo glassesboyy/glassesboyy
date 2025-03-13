@@ -33,6 +33,8 @@
 </div>
 
 ###
+###
+###
 
 <h6 align="center">Back-End (Server-Side) ⚙️</h6>
 
@@ -51,6 +53,8 @@
 </div>
 
 ###
+###
+###
 
 <h6 align="center">UI/UX Design 🎨</h6>
 
@@ -67,6 +71,8 @@
 </div>
 
 ###
+###
+###
 
 <h6 align="center">Mobile Development 📱</h6>
 
@@ -78,6 +84,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
 </div>
 
+###
+###
 ###
 
 <h6 align="center">Tools & Others 🛠️</h6>
@@ -101,6 +109,8 @@
 </div>
 
 ###
+###
+###
 
 <h2 align="center">Social Media📱</h2>
 
@@ -122,6 +132,8 @@
 </div>
 
 ###
+###
+###
 
 <h2 align="center">Stats 📊</h2>
 
@@ -134,6 +146,8 @@
 </div>
 
 ###
+###
+###
 
 <h2 align="center">Snake Game 🐍</h2>
 
@@ -141,6 +155,8 @@
 
 <img src="https://raw.githubusercontent.com/glassesboyy/glassesboyy/output/snake.svg" alt="Snake animation" />
 
+###
+###
 ###
 
 <h2 align="center">Pacman Game 👾</h2>
