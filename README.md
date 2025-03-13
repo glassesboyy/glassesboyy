@@ -10,7 +10,7 @@
 
 ###
 
-<h6 align="center">🔧 Front-End (Client-Side) 🌐</h6>
+<h6 align="center">🌐 Front-End (Client-Side)</h6>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<h6 align="center">🔧 Back-End (Server-Side) ⚙️</h6>
+<h6 align="center">⚙️ Back-End (Server-Side)</h6>
 
 ###
 
@@ -123,16 +123,6 @@
 
 ###
 
-<h2 align="center">📊 My GitHub Stats</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=glassesboyy&show_icons=true&theme=highcontrast&count_private=true" height="270" alt="github stats" />
-</div>
-
-###
-
 <h2 align="center">📈 GitHub Activity Graph</h2>
 
 ###
@@ -142,9 +132,3 @@
 </div>
 
 ###
-
-<h2 align="center">⚡ Fun Fact & Current Learning</h2>
-
-###
-
-<h4 align="left">I am currently diving deep into backend development with Node.js, Express, and Laravel while exploring mobile development with Flutter and Dart. On the side, I enjoy working on side projects and learning new technologies that enhance my skillset. Always excited to work on new challenges and collaborate with fellow developers!</h4>
