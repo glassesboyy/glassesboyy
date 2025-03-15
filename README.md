@@ -2,7 +2,9 @@
 
 ###
 
-<h4 align="left">Welcome to my GitHub profile. I am an enthusiastic developer currently focused on learning Full Stack Development. My objective is to enhance my knowledge in both web and mobile development, encompassing all aspects from interface design to server management. I take pleasure in creating impactful and user-centric applications that address real-world challenges. Below are the technologies I utilize in my projects.</h4>
+<p align="left">Welcome to my GitHub profile. I am an enthusiastic developer currently focused on learning Full Stack Development. My objective is to enhance my knowledge in both web and mobile development, encompassing all aspects from interface design to server management. I take pleasure in creating impactful and user-centric applications that address real-world challenges. Don't forget to check my portfolio website here!!<p/> 
+
+<p align="left"> Below are the technologies I utilize in my projects:</p>
 
 ###
 
