@@ -2,9 +2,9 @@
 
 ###
 
-<p align="left">Welcome to my GitHub profile. I am an enthusiastic developer currently focused on learning Full Stack Development. My objective is to enhance my knowledge in both web and mobile development, encompassing all aspects from interface design to server management. I take pleasure in creating impactful and user-centric applications that address real-world challenges.<p/>
+<p align="left">Welcome to my GitHub! I’m a passionate developer from Indonesia, focused on Full Stack Development. I strive to master web and mobile development, from UI design to server management, and enjoy building user-centric apps that solve real-world problems.<p/>
 
-<h4 align="left">Don't forget to check my portfolio website <a href="https://www.example.com" target="_blank">HERE!!</a><h4/> 
+<h4 align="left">Don't forget to check my portfolio website <a href="https://www.example.com" target="_blank">here!</a><h4/> 
 
 <h4 align="left"> Below are the technologies I utilize in my projects:</h4>
 
