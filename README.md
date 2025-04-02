@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Welcome to my GitHub! I’m a passionate developer from Indonesia, focused on Full Stack Development. I strive to master web and mobile development, from UI design to server management, and enjoy building user-centric apps that solve real-world problems.<p/>
+<p align="left">Welcome to my GitHub! I’m a passionate developer from Indonesia, focused on Full Stack Development. I strive to master web development, from UI design to server management, and enjoy building user-centric apps that solve real-world problems.<p/>
 
 <h4 align="left">Don't forget to check my portfolio website <a href="https://zul-portofolio.vercel.app/" target="_blank">here!</a><h4/> 
 
