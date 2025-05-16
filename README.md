@@ -2,7 +2,15 @@
 
 ###
 
-<p align="left">Welcome to my GitHub! I’m a passionate developer from Indonesia, focused on Full Stack Development. I strive to master web development, from UI design to server management, and enjoy building user-centric apps that solve real-world problems.<p/>
+<p align="left">
+  Welcome to my GitHub 👋 I’m a developer from Indonesia with two main passions. 
+  I love building clean and interactive websites through 
+  <strong>Front End Development</strong>. 
+  On the other side, I also dive into 
+  <strong>AI Automation Workflow With N8N</strong> — 
+  setting up smart systems to make things run smoothly.
+</p>
+
 
 <h4 align="left">Don't forget to check my portfolio website <a href="https://zul-portofolio.vercel.app/" target="_blank">here!</a><h4/> 
 
@@ -15,26 +23,33 @@
 ###
 
 <div align="center">
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo" />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" height="40" alt="vuejs logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo" />
+  <img src="https://cdn.simpleicons.org/vite/646CFF" height="40" alt="vite logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
+  <img src="https://cdn.simpleicons.org/redux/764ABC" height="40" alt="redux logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img src="https://cdn.simpleicons.org/axios/5A29E4" height="40" alt="axios logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/eslint/4B32C3" height="40" alt="eslint logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/framer/0055FF" height="40" alt="framer motion logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
   <img width="12" />
@@ -42,12 +57,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
 </div>
+
 
 ---
 
