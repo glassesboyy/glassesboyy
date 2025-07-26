@@ -23,10 +23,6 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css logo" />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo" />
@@ -41,14 +37,14 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/zod/3F52E3" height="40" alt="zod logo" />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/axios/5A29E4" height="40" alt="axios logo" />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/redux/764ABC" height="40" alt="redux logo" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/axios/5A29E4" height="40" alt="axios logo" />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/eslint/4B32C3" height="40" alt="eslint logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/prettier/F7B93E" height="40" alt="prettier logo" />
