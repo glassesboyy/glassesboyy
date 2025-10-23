@@ -3,16 +3,15 @@
 ###
 
 <p align="left">
-  Welcome to my GitHub 👋 I’m a developer from Indonesia with two main passions. 
-  I love building clean and interactive websites through 
-  <strong>Front End Development</strong>. 
-  On the other side, I also dive into 
-  <strong>AI Automation Workflow With N8N</strong> — 
-  setting up smart systems to make things run smoothly.
+  Welcome to my GitHub 👋 I’m a <strong>Web Developer</strong> from Indonesia who loves building functional, responsive, and user-focused web applications. 
+  I enjoy working across both <strong>Front-End and Back-End Development</strong>, creating seamless experiences and efficient systems for the web.  
+  Alongside that, I’m also exploring <strong>AI Automation Workflows with N8N</strong> — developing smart integrations that simplify processes and boost productivity.
 </p>
 
-
-<h4 align="left">Don't forget to check my portfolio website <a href="https://zulhub.vercel.app/" target="_blank">here!</a><h4/> 
+<h4 align="left">
+  Don't forget to check my portfolio website 
+  <a href="https://zulhub.vercel.app/" target="_blank">here!</a>
+</h4>
 
 ###
 
@@ -23,49 +22,35 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo" />
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/vite/646CFF" height="40" alt="vite logo" />
+  <img src="https://cdn.simpleicons.org/inertia/9553E9" height="40" alt="inertiajs logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="40" alt="nextjs logo" />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="reactjs logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" height="40" alt="vuejs logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="40" alt="supabase logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo" />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/zod/3F52E3" height="40" alt="zod logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/axios/5A29E4" height="40" alt="axios logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/redux/764ABC" height="40" alt="redux logo" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://cdn.simpleicons.org/eslint/4B32C3" height="40" alt="eslint logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/prettier/F7B93E" height="40" alt="prettier logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/framer/0055FF" height="40" alt="framer motion logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="figma logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="40" alt="supabase logo" />
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="figma logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo" />
+  <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo" />
+  <img width="12" />
 </div>
-
 
 ---
 
@@ -87,8 +72,6 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo" />
   </a>
 </div>
-
-###
 
 ---
 
