@@ -3,9 +3,7 @@
 ###
 
 <p align="left">
-  Welcome to my GitHub 👋 I’m a <strong>Web Developer</strong> from Indonesia who loves building functional, responsive, and user-focused web applications. 
-  I enjoy working across both <strong>Front-End and Back-End Development</strong>, creating seamless experiences and efficient systems for the web.  
-  Alongside that, I’m also exploring <strong>AI Automation Workflows with N8N</strong> — developing smart integrations that simplify processes and boost productivity.
+Welcome to my GitHub 👋 I’m a <strong>Web Developer</strong> from Indonesia with experience in building scalable, responsive, and user-driven web applications across the <strong>Front-End and Back-End   Development</strong>. I actively stay informed about advancements in AI technologies and utilize AI collaboration to optimize development efficiency and solution quality.
 </p>
 
 <h4 align="left">
