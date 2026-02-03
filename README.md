@@ -26,6 +26,8 @@ Welcome to my GitHub 👋 I’m a <strong>Web Developer</strong> from Indonesia 
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="40" alt="nextjs logo" />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/nuxt/00DC82" height="40" alt="nuxtjs logo" />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="reactjs logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" height="40" alt="vuejs logo" />
@@ -39,10 +41,6 @@ Welcome to my GitHub 👋 I’m a <strong>Web Developer</strong> from Indonesia 
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="figma logo" />
   <img width="12" />
